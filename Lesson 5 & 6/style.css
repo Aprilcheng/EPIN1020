@@ -1,18 +1,12 @@
-@charset"UTF-8"
+.yellow_deepskyblue_box{
+  border-width: 10px;
+  border-color: deepskyblue;
+  border-style: solid;
+  margin-top: -10px;
+}
 
-
-article, aside, footer, header, main, nav, section (
-   display: block;
-)
-
-
-  html,body,h1,h2,h3,ul,li,a,p,
-  articl,aside, footer,header,main,nav,section(
-    padding:0;
-    margin:0;
-)
-
-banner(
-  background-color:#11233b;
-
-  )
+.yellow{
+        border-color: yellow;
+        border-style: solid;
+        border-width: 3px"
+}
